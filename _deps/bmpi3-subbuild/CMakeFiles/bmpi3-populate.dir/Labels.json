@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/workspaces/202503-c3b-hoidekr/_deps/bmpi3-subbuild/CMakeFiles/bmpi3-populate"
+		},
+		{
+			"file" : "/workspaces/202503-c3b-hoidekr/_deps/bmpi3-subbuild/CMakeFiles/bmpi3-populate.rule"
+		},
+		{
+			"file" : "/workspaces/202503-c3b-hoidekr/_deps/bmpi3-subbuild/CMakeFiles/bmpi3-populate-complete.rule"
+		},
+		{
+			"file" : "/workspaces/202503-c3b-hoidekr/_deps/bmpi3-subbuild/bmpi3-populate-prefix/src/bmpi3-populate-stamp/bmpi3-populate-build.rule"
+		},
+		{
+			"file" : "/workspaces/202503-c3b-hoidekr/_deps/bmpi3-subbuild/bmpi3-populate-prefix/src/bmpi3-populate-stamp/bmpi3-populate-configure.rule"
+		},
+		{
+			"file" : "/workspaces/202503-c3b-hoidekr/_deps/bmpi3-subbuild/bmpi3-populate-prefix/src/bmpi3-populate-stamp/bmpi3-populate-download.rule"
+		},
+		{
+			"file" : "/workspaces/202503-c3b-hoidekr/_deps/bmpi3-subbuild/bmpi3-populate-prefix/src/bmpi3-populate-stamp/bmpi3-populate-install.rule"
+		},
+		{
+			"file" : "/workspaces/202503-c3b-hoidekr/_deps/bmpi3-subbuild/bmpi3-populate-prefix/src/bmpi3-populate-stamp/bmpi3-populate-mkdir.rule"
+		},
+		{
+			"file" : "/workspaces/202503-c3b-hoidekr/_deps/bmpi3-subbuild/bmpi3-populate-prefix/src/bmpi3-populate-stamp/bmpi3-populate-patch.rule"
+		},
+		{
+			"file" : "/workspaces/202503-c3b-hoidekr/_deps/bmpi3-subbuild/bmpi3-populate-prefix/src/bmpi3-populate-stamp/bmpi3-populate-test.rule"
+		},
+		{
+			"file" : "/workspaces/202503-c3b-hoidekr/_deps/bmpi3-subbuild/bmpi3-populate-prefix/src/bmpi3-populate-stamp/bmpi3-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bmpi3-populate"
+		],
+		"name" : "bmpi3-populate"
+	}
+}

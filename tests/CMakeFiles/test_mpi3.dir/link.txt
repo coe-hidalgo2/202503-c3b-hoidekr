@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test_mpi3.dir/test_mpi3.cpp.o -o test_mpi3  -Wl,-rpath,/usr/lib/x86_64-linux-gnu/openmpi/lib /usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi_cxx.so /usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so /usr/lib/x86_64-linux-gnu/libboost_serialization.so.1.83.0 
