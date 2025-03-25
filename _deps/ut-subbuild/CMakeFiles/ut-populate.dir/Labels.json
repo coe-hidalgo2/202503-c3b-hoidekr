@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/workspaces/202503-c3b-hoidekr/_deps/ut-subbuild/CMakeFiles/ut-populate"
+		},
+		{
+			"file" : "/workspaces/202503-c3b-hoidekr/_deps/ut-subbuild/CMakeFiles/ut-populate.rule"
+		},
+		{
+			"file" : "/workspaces/202503-c3b-hoidekr/_deps/ut-subbuild/CMakeFiles/ut-populate-complete.rule"
+		},
+		{
+			"file" : "/workspaces/202503-c3b-hoidekr/_deps/ut-subbuild/ut-populate-prefix/src/ut-populate-stamp/ut-populate-build.rule"
+		},
+		{
+			"file" : "/workspaces/202503-c3b-hoidekr/_deps/ut-subbuild/ut-populate-prefix/src/ut-populate-stamp/ut-populate-configure.rule"
+		},
+		{
+			"file" : "/workspaces/202503-c3b-hoidekr/_deps/ut-subbuild/ut-populate-prefix/src/ut-populate-stamp/ut-populate-download.rule"
+		},
+		{
+			"file" : "/workspaces/202503-c3b-hoidekr/_deps/ut-subbuild/ut-populate-prefix/src/ut-populate-stamp/ut-populate-install.rule"
+		},
+		{
+			"file" : "/workspaces/202503-c3b-hoidekr/_deps/ut-subbuild/ut-populate-prefix/src/ut-populate-stamp/ut-populate-mkdir.rule"
+		},
+		{
+			"file" : "/workspaces/202503-c3b-hoidekr/_deps/ut-subbuild/ut-populate-prefix/src/ut-populate-stamp/ut-populate-patch.rule"
+		},
+		{
+			"file" : "/workspaces/202503-c3b-hoidekr/_deps/ut-subbuild/ut-populate-prefix/src/ut-populate-stamp/ut-populate-test.rule"
+		},
+		{
+			"file" : "/workspaces/202503-c3b-hoidekr/_deps/ut-subbuild/ut-populate-prefix/src/ut-populate-stamp/ut-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ut-populate"
+		],
+		"name" : "ut-populate"
+	}
+}
